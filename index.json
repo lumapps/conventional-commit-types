@@ -9,7 +9,7 @@
     "docs": {
       "description": "Documentation only changes"
     },
-    "style": {
+    "lint": {
       "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)"
     },
     "refactor": {
@@ -32,6 +32,9 @@
     },
     "revert": {
       "description": "Reverts a previous commit"
-    }
+    },
+    "theme": {
+      "description": "Changes that affect a theme"
+    },
   }
 }
