@@ -35,6 +35,6 @@
     },
     "theme": {
       "description": "Changes that affect a theme"
-    },
+    }
   }
 }
