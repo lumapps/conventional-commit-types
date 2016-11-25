@@ -1,7 +1,7 @@
 {
-  "name": "conventional-commit-types",
+  "name": "lumapps-conventional-commit-types",
   "version": "2.0.0",
-  "description": "List of conventional commit types.",
+  "description": "List of Lumapps conventional commit types.",
   "main": "index.json",
   "scripts": {
     "test": "json -f index.json"
@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adjohnson916/conventional-commit-types.git"
+    "url": "https://github.com/lumapps/conventional-commit-types.git"
   },
   "devDependencies": {
     "json": "^9.0.4"
